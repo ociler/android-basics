@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidBasics4</string>
+    <string name="info_user">User info</string>
+    <string name="full_name">Full name: </string>
+    <string name="email">eMail:</string>
+    <string name="ip_address">IP address:</string>
+    <string name="mac_address">MAC address:</string>
+    <string name="website">Website:</string>
+</resources>
